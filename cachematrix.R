@@ -41,7 +41,7 @@ x$setinverse(inv)
 inv
 }
  
-# First Example to test my code is run or not ??
+# First Example to test my code 
 my_Matrix <- makeCacheMatrix(matrix(1:4, 2, 2))
 my_Matrix$get()
 my_Matrix$getinverse()
